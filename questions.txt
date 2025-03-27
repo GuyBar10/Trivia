@@ -1,0 +1,1 @@
+{1: {"question": "How much is 2+2", "answers": ["3", "4", "2", "1"], "correct": 2}, 2: {"question": "What is the capital of France?", "answers": ["Lion", "Marseille", "Paris", "Montpellier"], "correct": 3}, 3: {"question": "How much is 3+7", "answers": ["9", "7", "8", "10"], "correct": 4}}
